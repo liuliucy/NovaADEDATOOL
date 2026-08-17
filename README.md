@@ -25,8 +25,8 @@
 
 | 版本 | 文件 | 说明 |
 |---|---|---|
-| 最新版 | [大壮的AD工具_x64-setup.exe](https://github.com/liuliuczy/NovaADEDATOOL/releases/latest/download/大壮的AD工具_1.0.18_x64-setup.exe) | NSIS 安装版（推荐） |
-| 便携版 | [大壮的AD工具_x64_portable.zip](https://github.com/liuliuczy/NovaADEDATOOL/releases/latest/download/大壮的AD工具_1.0.18_x64_portable.zip) | 解压即用，免安装 |
+| 最新版 | [NovaADEDATOOL_x64-setup.exe](https://github.com/liuliucy/NovaADEDATOOL/releases/latest/download/NovaADEDATOOL_1.0.18_x64-setup.exe) | NSIS 安装版（推荐） |
+| 便携版 | [NovaADEDATOOL_x64_portable.zip](https://github.com/liuliucy/NovaADEDATOOL/releases/latest/download/NovaADEDATOOL_1.0.18_x64_portable.zip) | 解压即用，免安装 |
 
 > 也可在右侧 **Releases** 页面选择任意历史版本下载。
 
